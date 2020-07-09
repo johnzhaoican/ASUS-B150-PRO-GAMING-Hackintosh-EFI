@@ -1,5 +1,5 @@
 # Catalina 10.15.5 (19F101)
-# ASUS-B150-PRO-GAMING-Hackintosh-EFI OpenCore 0.59
+# ASUS-B150-PRO-GAMING-Hackintosh-EFI OpenCore 0.58
 
  - 配置清单: 
    - Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz
